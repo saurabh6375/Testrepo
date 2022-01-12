@@ -1,0 +1,2 @@
+docker build -t smart_contarct .
+docker run -it smart_contract
